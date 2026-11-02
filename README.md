@@ -1,5 +1,16 @@
 # 🍖 Мясо-Арена для War Thunder
 
+**Репозиторий:** https://github.com/deni41144/warthunder-meat-arena
+
+Прямые ссылки для `Missions by URL` (вставляй как есть):
+
+```
+https://raw.githubusercontent.com/deni41144/warthunder-meat-arena/main/missions/usr_fun_arena_air.mission.blk
+https://raw.githubusercontent.com/deni41144/warthunder-meat-arena/main/missions/usr_fun_arena_ground.mission.blk
+```
+
+Текущие значения: **тяга ×10**, перезарядка **каждые 0.05 с**, 40 ботов в наземной.
+
 Кастомные юзер-миссии на двоих: **мгновенная перезарядка, бесконечные патроны,
 ×5 тяга самолётов, без слива тикетов**. Собраны из реальных рабочих миссий с WT Live.
 
